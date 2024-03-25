@@ -1,0 +1,15 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  --orange-color: #da722c;
+  --dark-blue-color: #057ada;
+  --light-color: #e8f7fb;
+  --light-blue-color: #023047;
+  --dark-color: #070917;
+  --light-blue-color: #6f7dfb;
+}
